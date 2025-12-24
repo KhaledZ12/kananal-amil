@@ -65,7 +65,7 @@ const Footer = () => {
           <p className="text-center text-sm opacity-60 arabic-text">
           جميع الحقوق محفوظة لـ كنان الامل © 2025 By {'    '}
             <a
-              href="https://pixeleg.com/"
+              href="https://pixelmarketng.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="font-semibold"
